@@ -1,0 +1,179 @@
+[
+{
+  "initial_date": "2010-12-22",
+  "performance_audios": [],
+  "operability": {
+    "has_operations_on_thursdays": true,
+    "retrieval_liquidation_days_type": "\u00fateis",
+    "application_quotation_days_type": "\u00fateis",
+    "retrieval_quotation_days": 0,
+    "anticipated_retrieval_quotation_days_str": "N\u00e3o h\u00e1",
+    "retrieval_quotation_days_type": "\u00fateis",
+    "anticipated_retrieval_quotation_days": 0,
+    "has_operations_on_wednesdays": true,
+    "minimum_balance_permanence": "1000.00",
+    "has_operations_on_tuesdays": true,
+    "minimum_initial_application_amount": "1000.00",
+    "application_time_limit": "13:00:59",
+    "has_operations_on_mondays": true,
+    "retrieval_time_limit": "13:00:59",
+    "has_operations_on_fridays": true,
+    "retrieval_special_type": "",
+    "application_quotation_days_str": "D+0",
+    "retrieval_quotation_days_str": "D+0",
+    "retrieval_liquidation_days_str": "D+0 da data de convers\u00e3o de resgate",
+    "minimum_subsequent_retrieval_amount": "0.00",
+    "retrieval_liquidation_days": 0,
+    "application_quotation_days": 0,
+    "anticipated_retrieval_quotation_days_type": "\u00fateis",
+    "maximum_initial_application_amount": "0.00",
+    "minimum_subsequent_application_amount": "0.00"
+  },
+  "full_name": "\u00d3rama DI Tesouro - Fundo de Investimento Renda Fixa Simples Longo Prazo",
+  "fees": {
+    "maximum_administration_fee": "0,20%",
+    "anticipated_retrieval_fee_value": "0.00",
+    "administration_fee": "0,20%",
+    "anticipated_retrieval_fee": "N\u00e3o h\u00e1",
+    "performance_fee": "N\u00e3o h\u00e1",
+    "has_anticipated_retrieval": false
+  },
+  "id": 10,
+  "is_closed": false,
+  "simple_name": "\u00d3rama DI Tesouro FIRF Simples LP",
+  "target_fund": null,
+  "documents": [{
+    "position": 5,
+    "document_type": "0",
+    "name": "Comunicado",
+    "document_url": "app_img/fund_document/ORAMA_DI_-_ATO_DO_ADMINISTRADOR.pdf"
+  }, {
+    "position": 1,
+    "document_type": "0",
+    "name": "Convoca\u00e7\u00e3o da Assembl\u00e9ia",
+    "document_url": "app_img/fund_document/Convoca\u00e7\u00e3o_-_\u00d3rama_DI_Tesouro_FIRF_Referenciado_DI_LP_-_20170630.pdf"
+  }, {
+    "position": 1,
+    "document_type": "0",
+    "name": "Ata da Assembl\u00e9ia",
+    "document_url": "app_img/fund_document/Ata_da_Assembleia_-__\u00d3rama_DI_Tesouro_FIRF_Referenciado_DI_LP_-_20170719.PDF"
+  }, {
+    "position": 1,
+    "document_type": "3",
+    "name": "Regulamento",
+    "document_url": "app_img/fund_document/R_-_\u00d3rama_DI_Tesouro_FIRF_Simples_LP_-_20170823.pdf"
+  }, {
+    "position": 3,
+    "document_type": "0",
+    "name": "Formul\u00e1rio de Informa\u00e7\u00f5es Complementares",
+    "document_url": "app_img/fund_document/FORM_INFO_COMP_-_\u00d3rama_DI_Tesouro_FIRF_Simples_LP_2017_12_04.pdf"
+  }, {
+    "position": 1,
+    "document_type": "0",
+    "name": "Ata da Assembl\u00e9ia",
+    "document_url": "app_img/fund_document/Ata_da_Assembleia_-__\u00d3rama_DI_Tesouro_FIRF_Referenciado_DI_LP_-_20180131.pdf"
+  }, {
+    "position": 4,
+    "document_type": "0",
+    "name": "Demonstra\u00e7\u00e3o de Resultado",
+    "document_url": "app_img/fund_document/DDF_-_201806_-_\u00d3rama_DI_Tesouro_FIRF_Simples_LP.pdf"
+  }, {
+    "position": 3,
+    "document_type": "1",
+    "name": "L\u00e2mina",
+    "document_url": "app_img/fund_document/L\u00e2mina_-_201809_-_\u00d3rama_DI_Tesouro_FIRF_Simples_LP.pdf"
+  }],
+  "specification": {
+    "fund_suitability_profile": {
+      "score_range_order": 1,
+      "name": "Conservador"
+    },
+    "fund_risk_profile": {
+      "score_range_order": 1,
+      "name": "R\u00e9gua de risco 1"
+    },
+    "is_qualified": false,
+    "fund_type": "Referenciado",
+    "fund_class": "Renda Fixa Simples",
+    "fund_macro_strategy": {
+      "explanation": "Fundos que buscam retorno por meio de investimentos em ativos de renda fixa. S\u00e3o indicados para a parcela conservadora da carteira do investidor. Podem investir em t\u00edtulos p\u00fablicos e/ ou em t\u00edtulos privados, com remunera\u00e7\u00e3o prefixada, p\u00f3s-fixada ou atrelada a algum \u00edndice de pre\u00e7o.",
+      "id": 1,
+      "name": "Renda Fixa"
+    },
+    "fund_main_strategy": {
+      "explanation": "Fundos que investem apenas em LFTs, t\u00edtulos emitidos pelo Tesouro com rentabilidade atrelada \u00e0 Selic, por isso, considerados os de menor risco no mercado.",
+      "fund_macro_strategy": 1,
+      "id": 2,
+      "name": "Tesouro Selic"
+    }
+  },
+  "benchmark": {
+    "id": 2,
+    "name": "CDI"
+  },
+  "tax_classification": "Longo prazo",
+  "cnpj": "12.823.610/0001-74",
+  "description": {
+    "objective": "A pol\u00edtica de investimento do FUNDO consiste em proporcionar ao cotista a valoriza\u00e7\u00e3o de suas cotas por meio da aplica\u00e7\u00e3o de no m\u00ednimo 95% de seus recursos em t\u00edtulos p\u00fablicos federais p\u00f3s-fixados emitidos pelo Tesouro Nacional indexados \u00e0 Selic, sendo vedada a aplica\u00e7\u00e3o em t\u00edtulos de cr\u00e9dito privado.",
+    "movie_url": "https://player.vimeo.com/video/35771786",
+    "target_audience": "Pessoas f\u00edsicas em geral e Fundos de Investimento.",
+    "strengths": "Indicado para investidores que buscam retornos consistentes e seguran\u00e7a. Os t\u00edtulos que comp\u00f5em a carteira s\u00e3o considerados de baix\u00edssimo risco, podendo ser comparados \u00e0 poupan\u00e7a e mais rent\u00e1veis.",
+    "strategy": "Fundo classificado como Renda Fixa Tesouro Selic, com objetivo de seguir a varia\u00e7\u00e3o CDI. A carteira do Fundo \u00e9 composta somente por t\u00edtulos p\u00fablicos p\u00f3s-fixados (Tesouro Selic), ou seja, pap\u00e9is da d\u00edvida do governo."
+  },
+  "performance_videos": [{
+    "description": "Veja a performance do segundo trimestre de 2016 do fundo \u00d3rama Simples DI Tesouro.\n\nConhe\u00e7a mais sobre o fundo http://bit.ly/2aya6H5",
+    "title": "Fundo Passivo \u00d3rama Simples DI Tesouro, Rentabilidade Jul/16 - \u00d3rama",
+    "url": "http://www.youtube.com/watch?v=Za3QDV1TCmY",
+    "published": "2016-07-28T00:22:43",
+    "id": 1662,
+    "enabled_for_tvorama": true,
+    "youtube_id": "Za3QDV1TCmY",
+    "thumbnail": "http://i.ytimg.com/vi/Za3QDV1TCmY/hqdefault.jpg"
+  }, {
+    "description": "",
+    "title": "Fundo Passivo \u00d3rama DI Tesouro Master, Rentabilidade Abr/2016 - \u00d3rama",
+    "url": "http://www.youtube.com/watch?v=MmiUkzZkoFk",
+    "published": "2016-05-06T14:37:50",
+    "id": 1564,
+    "enabled_for_tvorama": true,
+    "youtube_id": "MmiUkzZkoFk",
+    "thumbnail": "http://i.ytimg.com/vi/MmiUkzZkoFk/hqdefault.jpg"
+  }],
+  "quota_date": "2018-11-01",
+  "is_active": true,
+  "slug": "Orama-DI-Tesouro-FIRF-Simples-LP",
+  "volatility_12m": "0.000204",
+  "strategy_video": {
+    "description": "Sandra Blanco explica a estrat\u00e9gia do \u00d3rama DI Tesouro Master, um Fundo de Investimento que segue a varia\u00e7\u00e3o do \u00edndice CDI. Conhe\u00e7a e veja porque este Fundo \u00e9 uma oportunidade \u00fanica no mercado. http://www.orama.com.br/fundos-de-investimento/orama-di-tesouro-master/\n\n\u00d3rama: invista nos melhores Fundos de Investimento pra voc\u00ea com apenas R$ 1 mil. Conhe\u00e7a tamb\u00e9m nossos produtos de renda fixa. http://www.orama.com.br/",
+    "title": "Estrat\u00e9gia do Fundo Passivo \u00d3rama DI Tesouro Master",
+    "url": "http://www.youtube.com/watch?v=9QRkdP1Oxks",
+    "published": "2015-09-10T19:19:07",
+    "id": 1467,
+    "enabled_for_tvorama": true,
+    "youtube_id": "9QRkdP1Oxks",
+    "thumbnail": "http://i.ytimg.com/vi/9QRkdP1Oxks/hqdefault.jpg"
+  },
+  "profitabilities": {
+    "m60": "0.647706",
+    "m48": "0.497827",
+    "m24": "0.175990",
+    "m36": "0.333244",
+    "month": "0.000233",
+    "m12": "0.062151",
+    "year": "0.051248",
+    "day": "0.000233"
+  },
+  "closed_to_capture_explanation": "",
+  "net_patrimony_12m": "15282021.15",
+  "is_closed_to_capture": false,
+  "fund_manager": {
+    "description": "A \u00d3rama Investimentos foi criada em 2011, com o objetivo de distribuir uma diversidade de fundos para que qualquer investidor possa alcan\u00e7ar suas metas e realizar seus sonhos.\r\nPara isso, a empresa montou uma fam\u00edlia de fundos com aplica\u00e7\u00f5es acess\u00edveis e baixas taxas de administra\u00e7\u00e3o.",
+    "id": 17,
+    "full_name": "\u00d3rama DTVM",
+    "logo": "app_img/manager/logo_small/orama.jpg",
+    "slug": "orama",
+    "name": "\u00d3rama"
+  }
+}
+
+]

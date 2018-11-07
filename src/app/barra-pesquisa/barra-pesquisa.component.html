@@ -1,0 +1,72 @@
+<div class="grid-x" id="box-pesquisa">
+    <!--Campo de busca-->
+    <div class="large-6 medium-6 cell" id="box-barra-pesquisa">
+      <input type="text" placeholder="Buscar fundo por nome" name="pesquisa" id="pesquisa"><br>
+      <img src="assets/images/busca.png" alt="buscar">
+    </div>
+
+    <!--Campo de busca filtros-->
+    <div id="box-barra-pesquisa-filtros">
+      <div class="grid-filtro-busca">
+        <div class="box-filtro-busca">
+          <h5>Aplicação mínima</h5>
+          <div class="filtro-busca">
+            <div class="range-filter"></div>
+            <div class="button-range-filter" id="btn-aplicacao" onmouseover="tooltipIn('1')" onmouseout="tooltipOut('1')"></div>
+            <!--tooltip-->
+            <span class="tooltips" id="001">
+              <h6>No momento essa ação está insdisponível</h6>
+            </span>
+          </div>
+          <p>Até R$00.000,00</p>
+        </div>
+      </div>
+
+      <div class="grid-filtro-busca">
+        <div class="box-filtro-busca">
+          <h5>Perfil de risco do fundo</h5>
+          <div class="filtro-busca">
+            <div id="box-range-column">
+              <p>menor</p>
+              <div id="range-column">
+                <div id="column1" class="columns"></div>
+                <div id="column2" class="columns"></div>
+                <div id="column3" class="columns"></div>
+                <div id="column4" class="columns"></div>
+                <div id="column5" class="columns"></div>
+                <div id="column6" class="columns"></div>
+                <div id="column7" class="columns"></div>
+                <div id="column8" class="columns"></div>
+                <div id="column9" class="columns"></div>
+                <div id="column10" class="columns"></div>
+                <div id="column11" class="columns"></div>
+                <div id="column12" class="columns"></div>
+              </div>
+              <p>maior</p>
+            </div>
+            <div id="marcador-range">
+              <img src="assets/images/seta.png" alt="seta">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid-filtro-busca">
+        <div class="box-filtro-busca">
+          <h5>Prazo de Resgate</h5>
+          <div class="filtro-busca">
+            <div class="range-filter"></div>
+            <div class="button-range-filter" id="btn-resgate" onmouseover="tooltipIn('2')" onmouseout="tooltipOut('2')"></div>
+            <!--tooltip-->
+            <span class="tooltips" id="002">
+              <h6>No momento essa ação está insdisponível</h6>
+            </span>
+          </div>
+          <p>Até 00 dias úteis</p>
+        </div>
+      </div>
+    </div>
+    <div id="box-horario">
+      <p>Horário limite de aplicação: 00:00</p>
+    </div>
+</div>

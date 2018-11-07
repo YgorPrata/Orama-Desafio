@@ -1,0 +1,508 @@
+[
+{
+  "simple_name": "Órama Inflação IPCA FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco1",
+  "initial_date": "22/12/2010",
+  "mes": "2,95",
+  "ano": "2,77",
+  "dozem": "8,5",
+  "valor": "1.000.00",
+  "classAcionaExpand" : "ia1",
+  "classExpand": "iaa1"
+},
+{
+  "simple_name": "Western Asset Feeder FIC FIRF Referenciado Selic  ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco3",
+  "initial_date": "22/12/2010",
+  "mes": "2,95",
+  "ano": "2,77",
+  "dozem": "8,5",
+  "valor": "1.000.00",
+  "classAcionaExpand" : "ia1",
+  "classExpand": "iaa1"
+},
+{
+  "simple_name": "Western Asset Feeder FIC FIRF Referenciado Selic   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco2",
+  "initial_date": "22/12/2010",
+  "mes": "2,95",
+  "ano": "2,77",
+  "dozem": "8,5",
+  "valor": "20.000.00",
+  "classAcionaExpand" : "ia2",
+  "classExpand": "iaa2"
+},
+{
+  "simple_name": "Western Asset Feeder FIC FIRF Referenciado Selic   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco4",
+  "initial_date": "22/08/2010",
+  "mes": "1,95",
+  "ano": "1,77",
+  "dozem": "7,5",
+  "valor": "25.000.00",
+  "classAcionaExpand" : "ia3",
+  "classExpand": "iaa3"
+},
+{
+  "simple_name": "ARX Income FIA   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco9",
+  "initial_date": "22/08/2010",
+  "mes": "1,95",
+  "ano": "1,77",
+  "dozem": "7,5",
+  "valor": "25.000.00",
+  "classAcionaExpand" : "ia3",
+  "classExpand": "iaa3"
+},
+{
+  "simple_name": "ARX Income FIA   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-indexado-soberano"
+  },
+  "fund_risk_profile": "risco10",
+  "initial_date": "02/07/2013",
+  "mes": "1,05",
+  "ano": "1,07",
+  "dozem": "6,5",
+  "valor": "5.000.00",
+  "classAcionaExpand" : "ia3",
+  "classExpand": "iaa3"
+},
+
+
+
+{
+  "simple_name": "Órama Inflação IPCA FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-renda-fixa"
+  },
+  "fund_risk_profile": "risco3",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-renda-fixa"
+  },
+  "fund_risk_profile": "risco5",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-renda-fixa"
+  },
+  "fund_risk_profile": "risco7",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-renda-fixa"
+  },
+  "fund_risk_profile": "risco10",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+
+
+
+
+
+
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa Crédito Privado",
+    "className": "c-rf-cred-privado"
+  },
+  "fund_risk_profile": "risco5",
+  "initial_date": "05/09/2011",
+  "mes": "1,45",
+  "ano": "2,37",
+  "dozem": "8,5",
+  "valor": "8.000.00",
+  "classAcionaExpand" : "rfc3",
+  "classExpand": "rfcc3"
+},
+{
+  "simple_name": "ARX Income FIA   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-rf-cred-privado"
+  },
+  "fund_risk_profile": "risco9",
+  "initial_date": "22/08/2010",
+  "mes": "1,95",
+  "ano": "1,77",
+  "dozem": "7,5",
+  "valor": "25.000.00",
+  "classAcionaExpand" : "ia3",
+  "classExpand": "iaa3"
+},
+{
+  "simple_name": "ARX Income FIA   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Indexado Soberano",
+    "className": "c-rf-cred-privado"
+  },
+  "fund_risk_profile": "risco12",
+  "initial_date": "02/07/2013",
+  "mes": "1,05",
+  "ano": "1,07",
+  "dozem": "6,5",
+  "valor": "5.000.00",
+  "classAcionaExpand" : "ia3",
+  "classExpand": "iaa3"
+},
+
+
+
+
+{
+  "simple_name": "Órama Inflação IPCA FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-cred-priv-hy"
+  },
+  "fund_risk_profile": "risco3",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-cred-priv-hy"
+  },
+  "fund_risk_profile": "risco4",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "9.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-cred-priv-hy"
+  },
+  "fund_risk_profile": "risco6",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "7.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-cred-priv-hy"
+  },
+  "fund_risk_profile": "risco9",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "10.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+
+
+
+
+{
+  "simple_name": "Órama Inflação IPCA FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-rf-infl-soberano"
+  },
+  "fund_risk_profile": "risco3",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-rf-infl-soberano"
+  },
+  "fund_risk_profile": "risco4",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "9.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-rf-infl-soberano"
+  },
+  "fund_risk_profile": "risco6",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "7.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-rf-infl-soberano"
+  },
+  "fund_risk_profile": "risco6",
+  "initial_date": "03/05/2010",
+  "mes": "1,95",
+  "ano": "2,07",
+  "dozem": "8,5",
+  "valor": "5.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-rf-infl-soberano"
+  },
+  "fund_risk_profile": "risco9",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "10.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+
+
+{
+  "simple_name": "Órama Inflação IPCA FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-infl-cred-priv"
+  },
+  "fund_risk_profile": "risco3",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "2.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-infl-cred-priv"
+  },
+  "fund_risk_profile": "risco4",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "9.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-infl-cred-priv"
+  },
+  "fund_risk_profile": "risco6",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "7.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-infl-cred-priv"
+  },
+  "fund_risk_profile": "risco6",
+  "initial_date": "03/05/2010",
+  "mes": "1,95",
+  "ano": "2,07",
+  "dozem": "8,5",
+  "valor": "5.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+},
+{
+  "simple_name": "Icatu Vanguarda Pré-Fixado FIRF LP   ",
+  "fund_macro_strategy": {
+    "name": "Renda Fixa"
+  },
+  "fund_main_strategy": {
+    "name": "Renda Fixa",
+    "className": "c-infl-cred-priv"
+  },
+  "fund_risk_profile": "risco9",
+  "initial_date": "10/05/2010",
+  "mes": "0,95",
+  "ano": "1,77",
+  "dozem": "8,5",
+  "valor": "10.000.00",
+  "classAcionaExpand" : "rf3",
+  "classExpand": "rff3"
+}
+
+]
