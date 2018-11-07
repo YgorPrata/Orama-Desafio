@@ -1,5 +1,5 @@
 # Detalhes gerais do projeto
-O projeto é de gênero livre, desenvolvido como um desafio proposto pele Órama Investimentos segundo as normas estabelecidas do projeto [Veja as normas](arquivos/README.md)
+O projeto é de gênero livre, desenvolvido como um desafio proposto pela Órama Investimentos segundo as normas estabelecidas do desafio [Veja as normas](arquivos/README.md)
 
 ## Como rodar o projeto comandos
 * npm install
